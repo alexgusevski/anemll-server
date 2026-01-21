@@ -130,6 +130,11 @@ Unofficial Discord server for Anemll:
 
 https://discord.gg/xgtQDDBGcM
 
+
+If you're interested in a general AI system performing any kind of digital labour for you, visit: 
+
+https://planetarylabour.com
+
 ## License
 
 MIT - Do whatever you want with this.
